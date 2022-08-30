@@ -1,8 +1,6 @@
 File:         README.txt
 Purpose:      Contains at least 5 elements as required by the instructions:comments,details on testing,challenges,hours spent,and acknowldgement on plagerism.
 Author:       Rutendo Musuka and Hazel Chongoti
-Student #s:   76822683 and 53106662
-CS Accounts:  k7i2b and m8j2b
 Date:         10 Sept 2019
 
 //Details about testing the program:
