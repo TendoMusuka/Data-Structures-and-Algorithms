@@ -8,8 +8,6 @@ corresponds to the name defined in the preprocessor
 directive.  It is a series of NUMBER_OF_READINGS tidal
 readings (in mm) taken hourly.
 Author:       Rutendo Musuka and Hazel Chongoti
-Student #s:   76822683 and 53106662
-CS Accounts:  k7i2b and m8j2b
 Date:         10 Sept 2019
 */
 
