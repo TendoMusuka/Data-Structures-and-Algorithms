@@ -1,7 +1,7 @@
 /*
 * File:            main.c
 * Purpose : Brief description
-* Authors : Rutendo Musuka and Hazel Chongoti
+* Authors : Rutendo Musuka
 
 
 /* Preprocessor directives */
