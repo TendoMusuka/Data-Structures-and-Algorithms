@@ -8,18 +8,6 @@
               are provided in the Resource Files folder).
  */
 
- /******************************************************************
-  PLEASE EDIT THIS FILE
-
-  You need to complete the analyze_segments and calculate_score
-  functions.
-
-  You need to understand the entire program
-
-  Comments that start with // should be replaced with code
-  Comments that are surrounded by * are hints
-  ******************************************************************/
-
   /* Preprocessor directives */
 #include <stdio.h>
 #include <stdlib.h>
